@@ -1,35 +1,87 @@
-<h1 align="center">👋 Wasup? I'm José Augusto!</h1>
+# 👋 Olá! Eu sou José Augusto
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Developer+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Learning+Python%2C+HTML%2C+CSS+%26+JavaScript;Always+building+something+new" alt="Typing SVG" />
-</p>
+### 💻 Desenvolvedor Web em formação | Full Stack
 
-<p align="center">
-  <a href="https://portfolio-seven-xi-7mtpbx4h4p.vercel.app/"><img src="https://img.shields.io/badge/Website-Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1A1B27" /></a>
-  <img src="https://komarev.com/ghpvc/?username=natividadeaugusto812-lab&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" />
-</p>
+Sou estudante de programação e estou me desenvolvendo na área de **Full Stack**, estudando tecnologias para desenvolvimento Front-end e Back-end.
 
----
+Atualmente, meus estudos estão focados em **HTML, CSS, JavaScript e Python**, além de Git e GitHub para versionamento e organização dos meus projetos.
 
-### 🔎 About me
-
-- 🌎 Living in **Brazil**
-- 🎓 Studying **programming**
-- 💻 Working with **Python, HTML, CSS and JavaScript**
-- 🌐 My portfolio: **[portfolio](https://portfolio-seven-xi-7mtpbx4h4p.vercel.app/)**
+Gosto de transformar ideias em projetos reais, criando interfaces modernas, responsivas e fáceis de utilizar.
 
 ---
 
-### 🛠️ Languages and Tools
+## 🚀 Sobre mim
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github&theme=dark" />
-</p>
+🎓 Estudante de programação
+
+💻 Full Stack em formação
+
+🐍 Estudando Python e lógica de programação
+
+🌐 Desenvolvimento Web
+
+📚 Sempre buscando evoluir e aprender novas tecnologias
+
+🎯 Em busca de oportunidades para crescer profissionalmente na área de tecnologia
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Tecnologias e ferramentas
 
-<div align="center">
-  <img height="180" src="https://streak-stats.demo-lab.com?user=natividadeaugusto812-lab&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7" />
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
+
 </div>
+
+---
+
+## 📌 Projetos
+
+### 🏥 Clínica Ivory
+
+Website institucional desenvolvido com foco em uma apresentação moderna e profissional para uma clínica.
+
+🔗 **Projeto:** https://projeto-clinica-ivory.vercel.app/
+
+### 🏋️ Academia Equipe 3
+
+Landing page para academia, com apresentação das modalidades, estrutura, informações e localização.
+
+🔗 **Projeto:** https://academia-equipe3.vercel.app/
+
+### 🏥 Policlínica Itapuã
+
+Projeto de website institucional para apresentação dos serviços e informações da clínica.
+
+🔗 **Projeto:** https://policlinica-itapua.vercel.app/
+
+---
+
+## 📊 Atualmente estudando
+
+* 🐍 Python
+* 🧠 Lógica de programação
+* 🗄️ Banco de dados
+* 🌐 HTML e CSS
+* ⚡ JavaScript
+* 🧩 Programação Orientada a Objetos
+* 🔧 Git e GitHub
+* 💻 Desenvolvimento Full Stack
+
+---
+
+## 📫 Contato
+
+💼 **LinkedIn:**
+https://www.linkedin.com/in/jos%C3%A9-augusto-132152360/
+
+🌐 **Portfólio:**
+https://projeto-clinica-ivory.vercel.app/
+
+🐙 **GitHub:**
+https://github.com/natividadeaugusto812-lab
+
+---
+
+### 🚀 Transformando aprendizado em projetos reais.
